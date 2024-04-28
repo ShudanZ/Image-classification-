@@ -14,3 +14,5 @@ Datasets:
 Acknowledgements:
 
     Datasets is a part of the previous work of Yi Yang and Shawn Newsam, "Big-Of-Visual-Words and Spatial Extensions for Land-Use Classification", ACM sigspatial international conference on advances in geographic information systems (ACM GIS), 2010. 
+
+OBS! Training data has not been upload here because of large size. 
