@@ -12,7 +12,9 @@ Datasets:
 Document description:
 
     image_classification2.ipynb contains CNN model which is builded by myself and saved the model inte file CNN_model.keras.
+    
     image_classification3.ipynb has downloaded a pre-trained model which is called VGG16. Then I convert the original VGG16 model into a sequential model. Add all layers except the first input layer and last output layer from VGG16 model into the new sequential model.
+    
     image_classification4_ReloadModel.ipynb has tried to reload the saved CNN_model which is built in image_classification2.ipynb.Then evaluate and predict the test images with the reload model. 
     
 
